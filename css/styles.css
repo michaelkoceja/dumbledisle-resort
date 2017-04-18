@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  padding: 10px;
+  background-color: #333;
+  text-align: center;
+  color: #bbb;
+  font-family: serif;
+}
+
+h1 {
+  color: #ccc;
+  font-size: 40px;
+}
+
+.nav {
+  margin-bottom: 20px;
+}
+
+.nav > li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+hr {
+  margin: 20px 0;
+}
+
+a {
+  color: #ffbbbb;
+}
+
+a:visited {
+  color: #ffbbbb;
+}
+
+h3 {
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin: 10px 0;
+}
+
+h2 {
+  margin-top: 30px;
+}
